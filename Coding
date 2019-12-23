@@ -1,0 +1,12 @@
+#include<<iostream>>
+#include<<cmath>>
+
+int main(){
+Using namespace std;
+
+cout<<"This is beautiful";
+
+system("pause");
+
+
+}
